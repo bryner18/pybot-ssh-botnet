@@ -1,6 +1,6 @@
 # PyBot SSH Botnet
 
-This project was made by Bryner. Feel free to use and change you want.
+This project was made by Bryner. Feel free to use and change whatever you want.
 
 ## Features
 
