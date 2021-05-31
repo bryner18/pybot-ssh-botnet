@@ -37,6 +37,7 @@ At least 1 **bot** to start the **Attack**
 
 ```
 pip install paramiko
+pip install sockets
 ```
 
 ## Disclaimer
