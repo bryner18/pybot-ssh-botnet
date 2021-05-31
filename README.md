@@ -6,23 +6,27 @@ This project was made by Bryner. Feel free to use and change you want.
 
 **Bot Collecting**
 
-- [x] SSH Brute Force Attack
+* SSH Brute Force Attack
 
 **Five Attack Methods**
 
-- [x] Command Execution
-- [x] HTTP/HTTPS Attack
-- [x] PING Attack
-- [x] SYN Attack
-- [x] ACK Attack
+* Command Execution
+
+* HTTP/HTTPS Attack
+
+* PING Attack
+
+* SYN Attack
+
+* ACK Attack
 
 **Bot Counting**
 
-- [x] Bots Alive Function
+* Bots Alive Function
 
 **File Upload**
 
-- [x] File Uploading via SSH
+* File Uploading via SSH
 
 ## Requirements
 
